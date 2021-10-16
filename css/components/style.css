@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url("components/banner-color.css");
+@import url("components/banner-white.css");
+@import url("components/btn-blueshading.css");
+@import url("components/btn-yellowshading.css");
+@import url("components/container.css");
+@import url("components/footer-yellowhover.css");
+@import url("components/header-bluehover.css");
+@import url("components/input-blue.css");
+@import url("components/searchbox-whiteshading.css");
+@import url("components/text-hyperlink.css");
+@import url("components/textbox-blue.css");
+@import url("components/textbox-grey.css");
+@import url("components/title-blue.css");
+@import url("components/typingbox-grey.css");
+
+
+
+
+
+
+
+h1{
+  font-family: 'Spartan', sans-serif;
+  font-size: 25px;
+}
+
+
+h2,h3,h4{
+  font-family: 'Roboto', sans-serif;
+}
+.images-circle{
+  border-radius: 50%;
+}
+
+/* banner-color */
+
+position: absolute;
+width: 1440px;
+height: 119.26px;
+left: 2px;
+top: -0.26px;
+
+
+
+/* Banner with color */
+
+position: absolute;
+width: 1440px;
+height: 119.26px;
+left: 2px;
+top: -0.26px;
+
+
+
+/* Group 46 */
+
+position: absolute;
+width: 1440px;
+height: 119.26px;
+left: 2px;
+top: -0.26px;
+
+
+
+/* Bannière */
+
+position: absolute;
+width: 1439.01px;
+height: 119.26px;
+left: 2px;
+top: -0.26px;
+
+border: 1px solid #000000;
+
+
+/* Bannière */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* background gradient */
+
+position: absolute;
+width: 1440px;
+height: 118.28px;
+left: 2px;
+top: -0.26px;
+
+background: linear-gradient(270deg, rgba(252, 228, 92, 0.6) 24.45%, rgba(91, 199, 215, 0.82) 67.04%);
+
+
+/* header-bluehover */
+
+position: absolute;
+visibility: hidden;
+width: 240.84px;
+height: 36.47px;
+left: 1081px;
+top: 43.2px;
+
+
+
+/* Log-in */
+
+position: absolute;
+visibility: hidden;
+width: 199.86px;
+height: 41.4px;
+left: 1115.24px;
+top: 41.13px;
+
+
+
+/* Sign-up */
+
+position: absolute;
+visibility: hidden;
+width: 210.86px;
+height: 38.44px;
+left: 1251.14px;
+top: 41.13px;
+
+
+
+/* Logo */
+
+position: absolute;
+visibility: hidden;
+width: 277px;
+height: 92.87px;
+left: 58px;
+top: 13.42px;
+
+
+
+/* Account icon */
+
+position: absolute;
+visibility: hidden;
+width: 69px;
+height: 69.74px;
+left: 1124px;
+top: -70px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 18.62%;
+right: 18.62%;
+top: 10.68%;
+bottom: 10.68%;
+
+background: #000000;
+
+
+/* Better language, better chances */
+
+position: absolute;
+visibility: hidden;
+width: 702px;
+height: 40.43px;
+left: 192px;
+top: -60.9px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+

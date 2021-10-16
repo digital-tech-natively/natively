@@ -1,0 +1,9 @@
+.header-bluehover{
+  color: #5BC7D7;
+  font-size: 30px;
+}
+.header-bluehover:hover{
+  color: #C4C4C4;
+  transition-delay: 0.05s;
+  text-decoration: none;
+}
