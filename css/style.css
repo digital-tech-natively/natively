@@ -13,6 +13,7 @@
 @import url("components/textbox-grey.css");
 @import url("components/title-blue.css");
 @import url("components/typingbox-grey.css");
+@import url("components/cards.css");
 
 
 
@@ -178,4 +179,6 @@ font-size: 36px;
 line-height: 42px;
 
 color: #FFFFFF;
+
+
 
