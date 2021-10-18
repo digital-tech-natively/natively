@@ -1,0 +1,9 @@
+.footer-yellowhover{
+  color: #FCD95C;
+  font-size: 32px;
+}
+.footer-yellowhover:hover{
+  color: #C4C4C4;
+  transition-delay: 0.05s;
+  text-decoration: underline;
+}
