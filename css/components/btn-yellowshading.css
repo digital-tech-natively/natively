@@ -3,22 +3,22 @@
   background-color: #FCDD64;
   border-radius: 50px;
   text-align: center;
-  padding: 15px;
+  padding: 10px;
   box-shadow: 0px 15px 35px rgba(50, 50, 50, 0.1);
   width: fit-content;
   margin: 20px auto;
   border: 1px #FCDD64 ;
-  font-size: 24px;
+  font-size: 18px;
 }
 .btn-yellowshading:hover{
   color: #FFFFFF;
   background-color: #f9c933;
   border-radius: 50px;
   text-align: center;
-  padding: 15px;
+  padding: 10px;
   box-shadow: 0px 15px 35px rgba(50, 50, 50, 0.1);
   width: fit-content;
   margin: 20px auto;
   border: 1px #f9c933 ;
-  font-size: 24px;
+  font-size: 18px;
 }
