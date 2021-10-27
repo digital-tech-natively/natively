@@ -3,6 +3,7 @@
   margin: 10px  auto;
   padding: 20px auto;
   background-color: rgba(250,250,250,0);
+  padding-top: 118.28px;
 }
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
