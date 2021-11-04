@@ -16,7 +16,7 @@
 @import url("components/cards.css");
 @import url("components/images-circle.css");
 @import url("components/list-inline.css");
-
+@import url("components/home-page.css");
 h1{
   font-family: 'Spartan', sans-serif;
   font-size: 25px;
