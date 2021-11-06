@@ -4,5 +4,5 @@ justify-content: left;
 #home-page ul,li{
 list-style: none;
 display: inline-grid;
-padding: 30px;
+padding: 10px;
 }

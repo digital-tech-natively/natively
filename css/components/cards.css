@@ -21,6 +21,28 @@
 	text-align: left;
 }
 
+.card.teachers {
+  display: flex;
+  flex-direction: column;
+  margin: 0px;
+  justify-content: flex-start;
+  height: fit-content;
+  width: 26%;
+}
+
+
+.card.teachers img {
+  border-radius: 30px;
+  width: 100%;
+}
+
+.card.teachers ul {
+	margin: 15px 0px 0px 2px;
+	font-weight: bold;
+	font-family: "Roboto", sans-serif;
+	font-size: 14px;
+}
+
 .card img {
 	width: 150px;
 	border-radius: 6px;
