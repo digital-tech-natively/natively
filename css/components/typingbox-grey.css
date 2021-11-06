@@ -1,1 +1,13 @@
-
+.typingbox-grey{
+	display: flex;
+  background-color: #e8e8e8;
+  border-radius: 50px;
+  width: 640px;
+  color: rgba(0, 0, 0, 0.9);
+  padding: 20px;
+  box-shadow: 0px 15px 35px rgba(50, 50, 50, 0.1);
+}
+.typingbox-grey ul{
+list-style: none;
+text-align: left;	
+}
