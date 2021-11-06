@@ -1,8 +1,0 @@
-#home-page{
-justify-content: left;
-}
-#home-page ul,li{
-list-style: none;
-display: inline-grid;
-padding: 10px;
-}
