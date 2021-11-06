@@ -19,6 +19,7 @@
 @import url("components/home-page.css");
 @import url("components/generic-box.css");
 @import url("components/sign-up.css");
+@import url("components/btn-grey.css");
 h1{
   font-family: 'Spartan', sans-serif;
   font-size: 25px;
