@@ -17,6 +17,9 @@
 @import url("components/images-circle.css");
 @import url("components/list-inline.css");
 @import url("components/home-page.css");
+@import url("components/btn-grey.css");
+@import url("components/sign-up.css");
+
 h1{
   font-family: 'Spartan', sans-serif;
   font-size: 25px;
