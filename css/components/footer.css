@@ -2,7 +2,7 @@
   background-image: url(../../images/background-pattern.png);
   text-align: center;
   width: 100%;
-  position: absolute;;
-  margin: auto;
+  position: relative;;
+  margin-bottom: 20px;
 }
 

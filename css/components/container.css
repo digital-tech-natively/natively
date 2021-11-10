@@ -1,7 +1,6 @@
 .container{
 background-image: url(../../images/background-pattern.png);
 position: relative;
-text-align: center;
 width: 100%px;
 background-color: rgba(250,250,250,0);
 margin: 20px;

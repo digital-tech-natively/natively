@@ -1,7 +1,6 @@
 .generic-box {
   width: 640px;
   position: relative;;
-  top: 130px;
   margin: auto;
 }
 
@@ -24,6 +23,7 @@
   flex-direction: column;
   justify-content: center;
   height: 200px;
+  text-align: left;
 }
 
 .generic-box .box-content.teachers {
