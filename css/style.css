@@ -25,6 +25,7 @@
 @import url("components/footer.css");
 @import url("components/center-text-box.css");
 @import url("components/homepage-background.css");
+@import url("components/box-grey-about-us.css");
 h1{
   font-family: 'Spartan', sans-serif;
   font-size: 25px;
